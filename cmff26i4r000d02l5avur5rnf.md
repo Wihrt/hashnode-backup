@@ -1,5 +1,7 @@
 ---
 title: "RustMailer : une solution efficace pour gérer les emails en middleware avec Rust"
+seoTitle: "Gestion Efficace d'Emails avec RustMailer"
+seoDescription: "RustMailer, middleware open source en Rust, simplifie la gestion des emails avec des fonctionnalités avancées et intégration DevOps"
 datePublished: Thu Sep 11 2025 07:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmff26i4r000d02l5avur5rnf
 slug: rustmailer-une-solution-efficace-pour-gerer-les-emails-en-middleware-avec-rust
