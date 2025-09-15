@@ -39,4 +39,4 @@ Ce que j’ai aimé, c’est ce mix entre flexibilité et structure. On sent que
 
 Parlantis est une vraie réponse aux besoins actuels des développeurs et DevOps qui veulent automatiser sans compromettre la conformité ni la qualité des échanges. Si vous cherchez à construire des agents conversationnels intelligents, adaptables et sécurisés, ça vaut le détour.
 
-ὄ9 Découvrez l’article complet ici : \[lien vers l'article\](https://api.daily.dev/r/CgsTi7hxB).
+Découvrez l’article complet ici : [lien vers l'article](https://api.daily.dev/r/CgsTi7hxB).
