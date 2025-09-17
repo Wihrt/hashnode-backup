@@ -16,8 +16,11 @@ Gérer les publications sur différents réseaux sociaux peut rapidement devenir
 J'ai récemment découvert Postiz, un outil open source en pleine ascension qui permet de :
 
 * Centraliser la gestion de vos publications sur plus de 25 réseaux via une interface unique ;
+    
 * Publier simultanément sur plusieurs plateformes sans ressaisir le contenu ;
+    
 * Générer du contenu à l'aide de l’IA.
+    
 
 Personnellement, je n’utilise que la première fonctionnalité, ce qui me permet de regrouper mes publications LinkedIn, Hashnode, et Discord dans une même interface.
 
@@ -29,13 +32,17 @@ Deux options s’offrent à vous : utiliser la version SaaS ou héberger Postiz 
 
 Postiz introduit la notion de "canaux", correspondant aux différents réseaux où vous souhaitez publier. La configuration dépend du réseau et la documentation officielle vous guidera selon chaque plateforme.
 
-Pour les technophiles, cette étape est relativement aisée. Toutefois, pour les moins expérimentés, la prise en main peut être moins intuitive. À noter : sur certains canaux comme LinkedIn, vous ne pouvez configurer qu’un seul compte. Publier sur plusieurs pages LinkedIn nécessite donc autant d'instances que de pages, une véritable limite à considérer selon vos besoins.
+![Screenshot des canaux disponibles](https://cdn.hashnode.com/res/hashnode/image/upload/v1758092713904/014ba0bf-1c89-45d5-879f-143a51f1a002.png align="center")
 
-## 
+Pour les technophiles, cette étape est relativement aisée. Toutefois, pour les moins expérimentés, la prise en main peut être moins intuitive. À noter : sur certains canaux comme LinkedIn, vous ne pouvez configurer qu’un seul compte. Publier sur plusieurs pages LinkedIn nécessite donc autant d'instances que de pages, une véritable limite à considérer selon vos besoins.
 
 ## Utilisation de Postiz
 
 Vous pouvez gérer vos publications soit depuis l’interface graphique, soit via l’API. Pour ma part, j’utilise les deux : l’API pour automatiser certains articles et l’interface pour les publications manuelles.
+
+![Exemple de création d'une publication](https://cdn.hashnode.com/res/hashnode/image/upload/v1758092880586/8cc37c16-d8f2-4e7f-b59d-b5a42386db18.png align="center")
+
+![Création d'un futur post en utilisant l'IA directement intégrée](https://cdn.hashnode.com/res/hashnode/image/upload/v1758093172487/a6e083f2-0ca3-480c-9f3d-40e6058f8467.png align="center")
 
 L’API possède deux limites : une documentation succincte et un quota par défaut de 30 appels par heure (modifiable en auto-hébergement). De plus, elle offre moins de fonctionnalités que l’interface, mais son évolution est prometteuse. L’interface reste quant à elle très agréable et efficace.
 
